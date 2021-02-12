@@ -7,3 +7,5 @@ Walentynki - Daj kwiat
 @copyright 2021 Mazeusz* mazeusz@msmta.pl 
 
 @license GPLv2
+
+Skrypt do gry Multi Theft Auto, napisany w języku LUA. Stworzony na potrzeby serwera http://msmta.pl
