@@ -8,4 +8,5 @@ Walentynki - Daj kwiat
 
 @license GPLv2
 
-Skrypt do gry Multi Theft Auto, napisany w języku LUA. Stworzony na potrzeby serwera http://msmta.pl
+Skrypt do gry Multi Theft Auto, napisany w języku LUA. Stworzony na potrzeby serwera http://msmta.pl.
+Skrypt nie jest wybitnie trudny, ale spełnia swoje zadanie.
